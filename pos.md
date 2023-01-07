@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
-title: POS
+title: Mesin Kasir
+description: Point of sale mesin kasir barcode touchscreen terbaru list daftar
 eleventyNavigation:
   key: POS
   order: 2

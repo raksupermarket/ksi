@@ -1,15 +1,16 @@
 [
   {
+    "id": "138771988",
     "name": "Premium Paket",
     "fitur": "Cloud App + Backadmin Web app + CMS Website+ website dot com + Online order + Android App",
-    "image": "https://kasironline.github.io/pos/mkvc/TOUCHSCREEN2.webp",
+    "image": "/img/TOUCHSCREEN2.webp",
     "price": "Rp.3.600.000/Tahun",
-    "link": "https://app.midtrans.com/payment-links/robopos-pro"
+    "demo": "https://youtu.be/9HYHptO36A4"
   },
   {
     "name": "Standard Paket",
     "fitur": "Cloud Database + Backadmin Web app + CMS Website+ website dot com",
-    "image": "",
+    "image": "/img/TOUCHSCREEN3.webp",
     "price": "Rp.2.600.000/Tahun",
     "link": "https://app.midtrans.com/payment-links/robopos-standard"
   }
