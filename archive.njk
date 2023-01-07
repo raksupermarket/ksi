@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+permalink: /fitur/
+eleventyNavigation:
+  key: Fitur
+  order: 2
+---
+
+<h1>Archive</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

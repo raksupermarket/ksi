@@ -1,0 +1,5 @@
+<navbar class="nav justify-content-center">
+{%- for entry in collections.all | eleventyNavigation %}
+<a class="nav-link" href="{{ entry.url | url }}">{{ entry.title }}</a>
+{%- endfor %}
+</nav>
