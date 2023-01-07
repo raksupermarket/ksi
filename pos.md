@@ -6,4 +6,4 @@ eleventyNavigation:
   order: 2
 ---
 
-I am a person that writes stuff.
+{% include "widget/pos/kasir.njk" %}

@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Aplikasi toko grosir eceran",
+  "url": "https://lava.axcora.com/",
+  "language": "id",
+  "description": "Solusi penjualan grosir dan eceran dengan menggunakan lavaapp aplikasi toko grosir eceran integrasi website app.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Solusi penjualan grosir dan eceran dengan menggunakan lavaapp aplikasi toko grosir eceran integrasi website app.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://lava.axcora.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://lava.axcora.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Creative by dre",
+    "email": "creativebydre@gmail.com",
+    "url": "https://www.fiverr.com/creativitas/"
   }
 }

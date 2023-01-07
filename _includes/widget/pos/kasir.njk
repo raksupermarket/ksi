@@ -1,0 +1,13 @@
+<div class="row'>
+{% for kasir in pos %}
+ <div class="col-md-7 p-3 p-md-5">
+<img class="img-fluid rounded" alt="{{kasir.name}}" width="100%" height="100%" src=""/>
+ </div>
+ <div class="col-md-5 p-3 p-md-5">
+<h3 ><a href="{{page.url}}">{{kasir.name}}</a></h3>
+<p>{{kasir.fitur}}</p>
+<p>{{kasir.price}}</p>
+  <a href="{{kasir.link}}" class="rounded-md bg-indigo-600 px-5 py-3 cols-3 text-base font-medium text-white hover:bg-indigo-700">Order {{kasir.name}}</a>
+  </div>
+{% endfor %}
+</div>
