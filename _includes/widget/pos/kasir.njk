@@ -1,5 +1,5 @@
+<div class="row">
 {% for kasir in pos %}
-<div class="row'>
  <div class="col-md-7 p-3 p-md-5">
 <img class="img-fluid rounded" alt="{{kasir.name}}" width="100%" height="100%" src="{{kasir.image}}"/>
  </div>
@@ -10,5 +10,5 @@
  <a href="{{kasir.link}}" class="btn btn-outline-dark">Unboxing Video</a>
   <div class="ecsp ecsp-SingleProduct-v2 ecsp-Product ec-Product-{{kasir.id}}" itemtype="http://schema.org/Product" data-single-product-id="{{kasir.id}}"><div class="ecsp-title" itemprop="name" ></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?224387&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
   </div>
-</div>
 {% endfor %}
+</div>
