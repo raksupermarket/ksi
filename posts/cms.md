@@ -12,7 +12,7 @@ tags:
   - retail
   - software toko
   - program toko
-  - CMS
+  - cms
   - content management system
   - pembuatan website
   - aplikasi pembuatan website
