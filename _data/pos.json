@@ -1,18 +1,37 @@
 [
   {
     "id": "138771988",
-    "name": "Premium Paket",
-    "fitur": "Cloud App + Backadmin Web app + CMS Website+ website dot com + Online order + Android App",
+    "name": "mesin kasir",
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + lavapos webapp website dan aplikasi kasir gorsir eceran + sudah termasuk setting installasi mesin kasir siap pakai.",
     "image": "/img/TOUCHSCREEN2.webp",
-    "price": "Rp.3.600.000/Tahun",
-    "demo": "https://youtu.be/9HYHptO36A4"
+    "link": "https://youtu.be/9HYHptO36A4"
   },
   {
-    "id": "138771988",
-    "name": "Standard Paket",
-    "fitur": "Cloud Database + Backadmin Web app + CMS Website+ website dot com",
+    "id": "138803014",
+    "name": "mesin kasir murah",
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + Laci kasir drawer bahan full besi + lavapos webapp website dan aplikasi kasir gorsir eceran + sudah termasuk setting installasi mesin kasir siap pakai.",
     "image": "/img/TOUCHSCREEN3.webp",
-    "price": "Rp.2.600.000/Tahun",
-    "link": "https://app.midtrans.com/payment-links/robopos-standard"
+    "link": "https://youtu.be/gGZcHO32mh4"
+  },
+  {
+    "id": "138803073",
+    "name": "mesin kasir barcode",
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + Laci kasir drawer bahan full besi + laser barcode manual + lavapos webapp website dan aplikasi kasir gorsir eceran + sudah termasuk setting installasi mesin kasir siap pakai.",
+    "image": "/img/TOUCHSCREEN4.webp",
+    "link": "https://youtu.be/jYKUiC6NXj4"
+  },
+  {
+    "id": "138803096",
+    "name": "mesin kasir lengkap",
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + Laci kasir drawer bahan full besi + laser barcode auto multi laser + lavapos webapp website dan aplikasi kasir gorsir eceran + sudah termasuk setting installasi mesin kasir siap pakai.",
+    "image": "/img/TOUCHSCREEN5.webp",
+    "link": "https://youtu.be/zQIjZPnGthc"
+  },
+  {
+    "id": "138803100",
+    "name": "mesin kasir barcode lengkap",
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + Laci kasir drawer bahan full besi + laser barcode auto multi laser + Mesin cetak kode barcode + lavapos webapp website dan aplikasi kasir gorsir eceran + sudah termasuk setting installasi mesin kasir siap pakai.",
+    "image": "/img/TOUCHSCREEN6.webp",
+    "link": "https://youtu.be/hzXc74f5KP8"
   }
 ]
